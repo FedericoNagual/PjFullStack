@@ -32,15 +32,13 @@ Ademas de unas integraciones de
 
 ## Lista de tareas
 - [ ] Sprint 0
-   - [ ] Configuracion de los tableros y readme ademas de los bocetos principales de la aplicacion general 1
+   - [X] Configuracion de los tableros y readme ademas de los bocetos principales de la aplicacion general 1
    - [ ] Armado de la identidad del producto 1
    - [ ] Product board 0
    - [ ] Elevator Pitch 0
    - [ ] Boceto DER 0
    - [ ] Backlog Primero 0
-   - [ ] Slacing primero para el Sprint
-   
-   1
+   - [ ] Slacing primero para el Sprint 0
 
 ## Colaboradores
 - [FederNagual](https://github.com/FedericoNagual) 
