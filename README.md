@@ -25,11 +25,25 @@ Ademas de unas integraciones de
 - [Pizarra](https://excalidraw.com/#room=94e9f4bb16c6d6e2d2d5,OEIDF24KepMUH5xX-pLNjQ)
 
 ## Videos del proyecto 
--
+- [ ] tarea 0
+
+## Draw.io
+- [Diagrama](https://app.diagrams.net/#G1FBsoP6dElsxWscje8fsQF2OGugkr8jVh)
 
 ## Lista de tareas
-- [ ] Spint 0
-   - [ ] tarea 1
+- [ ] Sprint 0
+   - [ ] Configuracion de los tableros y readme ademas de los bocetos principales de la aplicacion general 1
+   - [ ] Armado de la identidad del producto 1
+   - [ ] Product board 0
+   - [ ] Elevator Pitch 0
+   - [ ] Boceto DER 0
+   - [ ] Backlog Primero 0
+   - [ ] Slacing primero para el Sprint
+   
+   1
 
 ## Colaboradores
 - [FederNagual](https://github.com/FedericoNagual) 
+
+## Historial
+- HS(07:40) Configuracion de los tableros y readme ademas de los bocetos principales de la aplicacion general. 
