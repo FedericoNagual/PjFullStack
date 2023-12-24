@@ -28,8 +28,8 @@ Ademas de unas integraciones de
 -
 
 ## Lista de tareas
-- [] Spint 0
-   - [] tarea 1
+- [ ] Spint 0
+   - [ ] tarea 1
 
 ## Colaboradores
 - [FederNagual](https://github.com/FedericoNagual) 
