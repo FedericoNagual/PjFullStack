@@ -1,4 +1,4 @@
-# PjFullStack "OportuniPlan"
+# PjFullStack -OportuniPlan
 
 ### Descripcion basica
 Proyecto full stack con 
