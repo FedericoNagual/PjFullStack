@@ -24,11 +24,17 @@ Ademas de unas integraciones de
 ## Excalidraw
 - [Pizarra](https://excalidraw.com/#room=94e9f4bb16c6d6e2d2d5,OEIDF24KepMUH5xX-pLNjQ)
 
-## Videos del proyecto 
-- [ ] tarea 0
-
 ## Draw.io
 - [Diagrama](https://app.diagrams.net/#G1FBsoP6dElsxWscje8fsQF2OGugkr8jVh)
+
+## MilaNote
+- [Board](https://app.milanote.com/1RkGVS1ihyEzfn/proyecto-oportuniplan)
+
+## Lucid
+- [Mapa](https://lucid.app/lucidchart/a53f2d3f-5363-4b64-8f50-857d744cd60a/edit?page=0_0&invitationId=inv_93125b7b-d646-4ad3-89fc-98bbea543c75#)
+
+## Videos del proyecto 
+- [ ] tarea 0
 
 ## Lista de tareas
 - [ ] Sprint 0
