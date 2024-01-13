@@ -49,7 +49,8 @@ Ademas de unas integraciones de
    - [ ] Slacing primero para el Sprint 0
 
 ## Colaboradores
-- [FederNagual](https://github.com/FedericoNagual) 
+- [FederNagual](https://github.com/FedericoNagual)
+- [Pato if](https://github.com/Patoif) 
 
 ## Historial
 - HS(07:40) Configuracion de los tableros y readme ademas de los bocetos principales de la aplicacion general. 
