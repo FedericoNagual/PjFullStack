@@ -54,3 +54,4 @@ Ademas de unas integraciones de
 
 ## Historial
 - HS(07:40) Configuracion de los tableros y readme ademas de los bocetos principales de la aplicacion general. 
+- HS(09:40) Aprender sobre JavaScript de HolaMundo curso principiante ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
